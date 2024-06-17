@@ -1,4 +1,4 @@
-// our-domain.com/
+// our-domain.com/ind
 
 function HomePage() {
   return <h1>The Home Page</h1>
